@@ -38,10 +38,7 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-HOMER'S ODYSSES.
-Translated according to ye Greeke
-By Geo: Chapman
-At mihi qd Viuo detraxerit Jnuida
+
 1. TO THE MOST
 WORTHILY HONORED▪
 MY SINGVLAR
